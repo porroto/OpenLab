@@ -1,0 +1,15 @@
+{
+  "name": "Digital Wallet Setup",
+  "description": "Awarded for setting up a student digital wallet in OpenLab.",
+  "image": "ipfs://QmExampleImageHash",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "Beginner"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Onboarding"
+    }
+  ]
+}
