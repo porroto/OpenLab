@@ -1,0 +1,14 @@
+{
+  "name": "OpenLab Badge Automation",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "badge/issue",
+        "method": "POST"
+      },
+      "name": "HTTP Trigger",
+      "type": "n8n-nodes-base.httpTrigger",
+      "typeVersion": 1
+    }
+  ]
+}
