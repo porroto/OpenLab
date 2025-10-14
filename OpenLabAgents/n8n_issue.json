@@ -1,0 +1,13 @@
+{
+  "name": "issue-badge",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "issue-badge",
+        "method": "POST"
+      },
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook"
+    }
+  ]
+}
