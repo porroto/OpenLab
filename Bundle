@@ -1,0 +1,15 @@
+# 1) Unzip and enter
+unzip OpenLab_Bundled_Repo.zip
+cd OpenLab_Bundled_Repo
+
+# 2) Initialize and point to your repo
+git init
+git branch -M main
+git remote add origin https://github.com/porroto/OpenLab.git
+
+# 3) First commit
+git add .
+git commit -m "feat: OpenLab bundled repo (contracts + API + AI Assignments + dashboard + CI)"
+
+# 4) Push
+git push -u origin main
