@@ -1,88 +1,48 @@
-# 🧠 OpenLab – Smart Academic Token (S.A.T.)
+# OpenLab — Legacy Archive
 
-**Empowering Learning through Decentralized Recognition**
+> **LEGACY / HISTORICAL ARCHIVE**
+>
+> This repository preserves an earlier phase of OpenLab research and prototyping. It is **not the current OpenLab / Agentic Education architecture**.
+>
+> **Active development:** https://github.com/porroto/Agentic-Education
 
-OpenLab is an open-source project that integrates blockchain technology, IPFS, and educational credentials to create a **Smart Academic Token (S.A.T.)** — a digital token representing student achievements, peer validation, and project-based learning milestones.
+OpenLab began as an exploration of alternative ways to recognize learning, including blockchain, Web3, IPFS, digital wallets, smart contracts, and the original **Smart Academic Token (S.A.T.)** concept.
 
----
+Those experiments are retained here as project provenance: they show where the work started and how the design evolved. They should not be interpreted as current specifications or implementation guidance.
 
-## 🚀 Features
-- **Smart Academic Token (S.A.T.)** system for decentralized learning rewards.
-- **IPFS Integration** for storing learning artifacts and badge proofs.
-- **Smart Contracts (Solidity + Remix)** for minting and managing credentials.
-- **STEM-ready design** for classrooms to simulate blockchain economy concepts.
-- **Open Source + Education Focused**: teachers, students, and developers welcome.
+## What this archive contains
 
----
+Historical experiments include:
 
-## 🧩 Tech Stack
-- Solidity (Ethereum-compatible)
-- Remix IDE
-- IPFS / Pinata / Filecoin
-- Web3.js / Ethers.js
-- Google Workspace (Slides + Classroom Integration)
-- GitHub Actions (CI/CD for smart contract deployment)
+- Smart Academic Token (S.A.T.) as a token-oriented recognition model
+- Solidity / Ethereum-compatible smart contracts
+- IPFS-based artifact and credential concepts
+- Web3 wallet and decentralized-recognition prototypes
+- Early classroom explorations connecting STEM learning and blockchain concepts
 
----
+## What superseded it
 
-## 🧠 Architecture Overview
-1. **Students** earn achievements → stored as data on IPFS.
-2. **Smart Contract** mints S.A.T. tokens linked to that IPFS hash.
-3. **Teachers/Peers** validate tokens through on-chain credentials.
-4. **Digital Wallet** (Google Slides or real blockchain) displays tokens.
+The active work moved toward an architecture centered on **learner agency, meaningful learning opportunities, evidence of learning, authorized human validation, responsible AI, and trust** rather than financial or blockchain-token incentives.
 
----
+Current concepts, terminology, prototypes, governance work, and proof-of-learning development live in:
 
-## 📁 Folder Structure
-```
-OpenLab/
-│
-├── contracts/
-│   ├── SATToken.sol
-│   └── OpenLabRegistry.sol
-│
-├── scripts/
-│   ├── deploy.js
-│   └── mintToken.js
-│
-├── frontend/
-│   ├── index.html
-│   ├── app.js
-│   └── styles.css
-│
-├── assets/
-│   ├── logo.png
-│   └── banner.png
-│
-└── README.md
-```
+**Agentic-Education:** https://github.com/porroto/Agentic-Education
+
+Current work includes the evolving MIRA, NOVA, OLA, S.A.T. trust layer, Proof-of-Learning, Pathfinder, and Explorer Companion research.
+
+## Historical status
+
+**Original experimental phase:** 2025–2026  
+**Archived as legacy:** September 2026  
+**Status:** Historical / superseded  
+**Canonical active repository:** Agentic-Education
+
+The original files remain available so the project's design history can be examined rather than rewritten.
+
+For additional context, see [LEGACY.md](LEGACY.md).
 
 ---
 
-## 🧰 Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/porroto/OpenLab.git
-   cd OpenLab
-   ```
-2. Open Remix → import `contracts/` folder.
-3. Deploy `SATToken.sol` and `OpenLabRegistry.sol`.
-4. Simulate IPFS connections with mock metadata.
-5. Explore your **Digital Wallet Prototype** in `/frontend/`.
+> **The world is your laboratory.**
 
----
-
-## 💡 Vision
-> *“Education deserves a trustless, transparent, and empowering recognition system.”*
-Our mission is to bridge the world of **blockchain** and **education**, preparing students for a decentralized future while recognizing learning with authenticity and joy.
-
----
-
-## 🧑‍💻 Contributors
-- Roger Vargas (@porroto) – Concept & STEM Implementation
-- Open Source Educators Community
-
----
-
-## 🪙 License
-MIT License © 2025 OpenLab
+MIT License © 2025–2026 OpenLab
