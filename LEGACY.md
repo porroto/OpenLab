@@ -31,6 +31,18 @@ The current repository is **Agentic-Education**:
 
 https://github.com/porroto/Agentic-Education
 
+## Future relationship to Web3 and blockchain
+
+Archiving this repository does **not** mean OpenLab has rejected blockchain, decentralized credentials, Web3, or related technologies.
+
+The project's research priority has moved upstream. Rather than beginning with a technology and asking how learning can fit into it, current work begins with the learning process itself: learner agency → action → evidence → reflection → human validation → trust → new opportunities.
+
+Future research may revisit decentralized identity, verifiable credentials, distributed ledgers, learner-controlled wallets, or other Web3 technologies where they provide a demonstrable benefit to portability, provenance, interoperability, or learner ownership.
+
+These technologies are therefore considered **possible infrastructure, not the learning model itself**. Their inclusion should be justified by the needs of the proof-of-learning system rather than by the technology alone.
+
+> **Blockchain may become infrastructure. It is no longer the thesis.**
+
 ## Terminology note
 
 References in this archive to **Smart Academic Token**, token minting, blockchain credentials, smart contracts, wallets, or decentralized learning rewards are **historical terminology and implementation experiments**.
